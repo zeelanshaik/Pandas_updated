@@ -1,0 +1,30 @@
+{
+    "data": {
+        "student": [
+            {
+                "@name": "John",
+                "age": "16",
+                "email": "john@mail.com",
+                "grade": "A"
+            },
+            {
+                "@name": "Alice",
+                "age": "17",
+                "email": "alice@mail.com",
+                "grade": "B"
+            },
+            {
+                "@name": "Bob",
+                "age": "16",
+                "email": "bob@mail.com",
+                "grade": "C"
+            },
+            {
+                "@name": "Hannah",
+                "age": "17",
+                "email": "hannah@mail.com",
+                "grade": "A"
+            }
+        ]
+    }
+}

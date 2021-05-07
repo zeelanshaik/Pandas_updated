@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<html>
+ <body>
+  <catalog>
+   <plant>
+    <common>
+     Bloodroot
+    </common>
+    <botanical>
+     Sanguinaria canadensis
+    </botanical>
+    <zone>
+     4
+    </zone>
+    <light>
+     Mostly Shady
+    </light>
+    <price>
+     $2.44
+    </price>
+    <availability>
+     031599
+    </availability>
+   </plant>
+   <plant>
+    <common>
+     Marsh Marigold
+    </common>
+    <botanical>
+     Caltha palustris
+    </botanical>
+    <zone>
+     4
+    </zone>
+    <light>
+     Mostly Sunny
+    </light>
+    <price>
+     $6.81
+    </price>
+    <availability>
+     051799
+    </availability>
+   </plant>
+   <plant>
+    <common>
+     Cowslip
+    </common>
+    <botanical>
+     Caltha palustris
+    </botanical>
+    <zone>
+     4
+    </zone>
+    <light>
+     Mostly Shady
+    </light>
+    <price>
+     $9.90
+    </price>
+    <availability>
+     030699
+    </availability>
+   </plant>
+  </catalog>
+ </body>
+</html>
