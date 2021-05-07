@@ -1,0 +1,23 @@
+[
+  {
+    "id": "A001",
+    "name": "RAHUL",
+    "math": 60,
+    "physics": 66,
+    "chemistry": 61
+  },
+  {
+    "id": "A002",
+    "name": "NIBTA",
+    "math": 89,
+    "physics": 76,
+    "chemistry": 51
+  },
+  {
+    "id": "A003",
+    "name": "SURESH",
+    "math": 79,
+    "physics": 90,
+    "chemistry": 78
+  }
+]
